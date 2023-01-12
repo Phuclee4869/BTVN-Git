@@ -1,7 +1,7 @@
-#Thực hành Git
+# Thực hành Git
 Đây là Github repo cho thực hành Git.
 
-##Phần 1 - Cấu hình Git
+## Phần 1 - Cấu hình Git
 Lệnh để cấu hình Git:
 
 '''
@@ -19,5 +19,5 @@ git add .
 git commit -m "Thông điệp commit"
 '''
 
-##Phần 4 - Push
+## Phần 4 - Push
 Push localrepo lên Remote repo trên Github.
