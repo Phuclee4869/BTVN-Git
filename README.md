@@ -1,4 +1,4 @@
-welcome to git................ :>
+chao mung anh em den voi lap trinh :>
 # Thực hành Git
 Đây là Github repo cho thực hành Git.
 
