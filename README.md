@@ -1,4 +1,5 @@
-chao mung anh em den voi lap trinh :>
+Hi!!!
+
 # Thực hành Git
 Đây là Github repo cho thực hành Git.
 
