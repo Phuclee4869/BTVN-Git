@@ -1,3 +1,4 @@
+welcome to git................ :>
 # Thực hành Git
 Đây là Github repo cho thực hành Git.
 
